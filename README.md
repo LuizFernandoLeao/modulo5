@@ -1,6 +1,6 @@
 # Semana 1
 
-Atalho para a página pessoal: [link](https://github.com/LuizFernandoLeao/modulo5/blob/main/src/pages/my-markdown-page.md)
+Atalho para a página pessoal: [link](https://github.com/LuizFernandoLeao/modulo5/blob/main/semana1/src/pages/my-markdown-page.md)
 
 # Website
 
