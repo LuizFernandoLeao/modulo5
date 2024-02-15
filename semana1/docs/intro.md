@@ -2,46 +2,24 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Minha página pessoal
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Bem vindo a minha página pessoal!
 
-## Getting Started
+Meu nome é Luiz Fernando!
 
-Get started by **creating a new site**.
+## Graduação
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Atualmente estou no meu segundo de graduação. Faço o curso de Engenharia da Computação no Inteli
 
-### What you'll need
+## Projetos
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- Módulo 1: Criação de um jogo à **Cia de Talentos**
+- Módulo 2: Aplicação Web ao **Banco Pan**
+- Módulo 3: Modelo preditivo à **Mobly**
+- Módulo 4: Sistema Iot ao **IPT**
+- Módulo 5: Sistema de automação ao **Hospital Sírio-Libanês**
 
-## Generate a new site
+### Informações de contato
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+**Email:** luiz.leao@sou.inteli.edu.br
