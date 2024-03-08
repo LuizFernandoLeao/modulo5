@@ -8,6 +8,8 @@
 
 &emsp;O robô deve retornar a sua posição inicial, ligar e desligar sua ferramenta de sucção, se mover em direções x, y, z, mostrar as coordenadas da sua posição atual e sair no sistema.
 
+
+
 ## 🔴 Vídeo de funcionameto
 
 &emsp; Segue o <a href="https://youtu.be/n72GNLaI5eo">LINK</a> do vídeo de funcionamento do sistema.
