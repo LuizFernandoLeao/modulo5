@@ -1,4 +1,4 @@
-# Prova Semana 5 - Construção de Interface por Linha de Comando (CLI) para Controle do Robô
+# Prova Semana 5
 
 ### Luiz Fernando Leão
 
