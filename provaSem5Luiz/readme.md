@@ -4,9 +4,7 @@
 
 ## 📜 Descrição
 
-&emsp;Está é a atividade ponderada da semana 3. Por meio de uma interface por linha de comando, o estudante deveria configurar o braço robótico para receber posições para onde o robô deve se deslocar e tratar alguns comandos especiais. 
-
-&emsp;O robô deve retornar a sua posição inicial, ligar e desligar sua ferramenta de sucção, se mover em direções x, y, z, mostrar as coordenadas da sua posição atual e sair no sistema.
+&emsp;Está é a prova da Semana 5. Para a questão prática da avaliação, você deve entregar um projeto Web implementado com o micro framework Flask em Python. Você deve criar um sistema Web que permita ao usuário realizar um cadastro dos pontos que o robô dele deve seguir. Cada conjunto de pontos que o robô for navegar, deve estar associado a um nome. Neste primeiro momento, o seu projeto deve realizar estas implementações para apenas um único usuário, portanto não existe a necessidade de realizar a diferenciação sobre o usuário que realizou o cadastro dos pontos. 
 
 ## 📁 Estrutura de pastas
 
@@ -18,5 +16,5 @@
 
 ## 🔧 Instalação
 
-Para executar o projeto, instale o repositório no dispositivo. Abra o Prompt de Comando e digite ```python3 -m venv venv``` para criar o ambiente virtual. Digite ```npm i``` para instalar todas dependências e aguarde enquanto a instalação é feita.
+&emsp;Para executar o projeto, instale o repositório no dispositivo. Abra o Prompt de Comando e digite ```python3 -m venv venv``` para criar o ambiente virtual. Digite ```npm i``` para instalar todas dependências e aguarde enquanto a instalação é feita.
 Para concluir, digite ```python src/robo-web/app.py``` para iniciar o projeto, e aguarde até a página ser carregada.
