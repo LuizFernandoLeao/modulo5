@@ -1,15 +1,13 @@
-# Atividade Ponderada - Construção de Interface por Linha de Comando (CLI) para Controle do Robô
+# Atividade Ponderada - PCB c/ Raspberry Pi Pico
 
 ### Luiz Fernando Leão
 
 ## 📜 Descrição
 
-&emsp;Está é a atividade ponderada da semana 3. Por meio de uma interface por linha de comando, o estudante deveria configurar o braço robótico para receber posições para onde o robô deve se deslocar e tratar alguns comandos especiais. 
+&emsp;Está é a atividade ponderada da semana 8. Esta atividade tem por objetivo desenvolver uma placa de circuito impresso capaz de receber um Raspberry Pi Pico W encaixado utilizando um dispositivo conector, além de um hardware para acionar uma interface de potência (relé e transistor), um dispositivo sinalizador (LED ou Buzzer) e um dispositivo de entrada (analógico ou digital).
 
-&emsp;O robô deve retornar a sua posição inicial, ligar e desligar sua ferramenta de sucção, se mover em direções x, y, z, mostrar as coordenadas da sua posição atual e sair no sistema.
-
-
+&emsp;Esta placa foi construída utilizando o software de CAD para placas eletrônicas utilizado no módulo vigente, além de prototipada utilizando as ferramentas disponíveis no laboratório da instituição, com o intúito de compreender o processo de construção de placas auxiliares de circuito eletrônico.
 
 ## 🔴 Vídeo de funcionameto
 
-&emsp; Segue o <a href="https://youtu.be/n72GNLaI5eo">LINK</a> do vídeo de funcionamento do sistema.
+&emsp; Segue o <a href="https://youtu.be/jeVZRRL9maA">LINK</a> do vídeo com demonstração do funcionamento da placa em protoboard
