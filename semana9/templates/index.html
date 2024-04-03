@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ola Mundo!</title>
+    <script src="https://unpkg.com/htmx.org@1.9.11" integrity="sha384-0gxUXCCR8yv9FM2b+U3FDbsKthCI66oH5IA9fHppQq9DDMHuMauqq1ZHBpJxQ0J0" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="{{ url_for('static',     filename='estilos.css') }}">
+</head>
+<body>
+    <main>
+        <!-- Pega o elemento header -->
+        <div hx-get="http://10.152.0.225:8000/pegar-header" hx-trigger="load once" hx-swap="outerHTML"></div>
+        <!-- Pega os elementos que devem ser exibidos -->
+        <div hx-get="http://10.152.0.225:8000/pegar-elementos" hx-trigger="load once"></div>
+    </main>
+</body>
+</html>

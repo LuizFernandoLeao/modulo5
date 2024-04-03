@@ -1,0 +1,7 @@
+<!-- Recebe uma lista de elementos e devolve ela para exibição no front -->
+{% for elemento in elementos %}
+    <div class="elemento">
+        <h2 class="elemento-id">{{ elemento.id }}</h2>
+        <p class="elemento-nome">{{ elemento.nome }}</p>
+    </div>
+{% endfor %}
