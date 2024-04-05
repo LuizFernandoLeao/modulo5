@@ -14,9 +14,10 @@
 - <b>templates</b>: pasta com os códigos de html
 - <b>.gitignore</b>: arquivo que ignora a importação de pastas desnessárias
 - <b>app.py</b>: arquivo em python que faz o programa funcionar
-- <b>caminhos.json</b>: arquivo que armazena as informações do banco de dados
+- <b>echo.json</b>: arquivo que armazena as informações do banco de dados sobre o echo
+- <b>ping.json</b>: arquivo que armazena as informações do banco de dados sobre o ping
 - <b>readme.md</b>: arquivo de texto com informações sobre este repositório
-- <b>readme.md</b>: arquivo com as bibliotecas que precisam ser instaladas pro sistema funcionar
+- <b>requirements</b>: arquivo com as bibliotecas que precisam ser instaladas pro sistema funcionar
 
 ## 🔧 Instalação
 

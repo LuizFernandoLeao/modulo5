@@ -23,5 +23,9 @@ def novo(nome=None):
 def ping():
     return jsonify(dbping.all())
 
+@app.route("/dash")    
+def dash():
+    return jsonify(dbecho.all())
+
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8000)
