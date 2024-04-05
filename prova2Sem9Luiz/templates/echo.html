@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Luiz Echo</title>
+    <link rel="icon" href="{{ url_for('static', filename='SP.jpg') }}" sizes="16x16 32x32 48x48">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <h1 style="color: white;">Echo</h1>
+    <p>Pagina Echo</p>
+    <p>O usuario enviou {{ nome }}</p>
+    <h2>Historico:</h2>
+    <ul>
+        {% for post in posts %}
+        <li>{{ post.nome }}</li>
+        {% endfor %}
+    </ul>
+</body>
+
+</html>

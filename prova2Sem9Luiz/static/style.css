@@ -1,0 +1,33 @@
+/* style.css */
+title {
+    color: rgb(255, 255, 255);
+}
+
+body {
+    background-image: url("/static/SP.jpg");
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 70px;
+    font-size: 4em;
+    color: #a5a5a5;
+}
+
+form {
+    text-align: center;
+    margin-top: 40px;
+}
+
+input {
+    padding: 15px;
+    font-size: 2em;
+}
+
+button {
+    padding: 15px;
+    font-size: 2em;
+}
