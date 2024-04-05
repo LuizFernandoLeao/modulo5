@@ -21,6 +21,6 @@
 
 ## 🔧 Instalação
 
-&emsp;Para executar o projeto, instale o repositório no dispositivo. Abra o Prompt de Comando e digite ```python3 -m venv venv``` para criar o ambiente virtual e depois ```venv/bin/activate´´´ para ativar o venv
+&emsp;Para executar o projeto, instale o repositório no dispositivo. Abra o Prompt de Comando e digite ```python3 -m venv venv``` para criar o ambiente virtual e depois ```venv/bin/activate``` para ativar o venv
 . Digite ```pip install -r requirements.txt``` para instalar todas dependências e aguarde enquanto a instalação é feita.
 Para concluir, digite ```python app.py``` para iniciar o projeto, e aguarde até a página ser carregada.
