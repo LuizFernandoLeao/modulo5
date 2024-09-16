@@ -12,6 +12,26 @@ const config = {
   tagline: 'Luiz Fernando',
   favicon: 'img/favicon.ico',
 
+  plugins: [
+    'docusaurus-plugin-image-zoom', // can also just be 'image-zoom'
+    // ...other plugins
+  ],
+  
+  themeConfig: {
+    // ...other themeConfig
+    
+    zoom: {
+      selector: '.markdown > img',
+      background: {
+        light: 'rgb(255, 255, 255)',
+        dark: 'rgb(50, 50, 50)'
+      },
+      config: {
+        // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+      }
+    }
+  },
+
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
