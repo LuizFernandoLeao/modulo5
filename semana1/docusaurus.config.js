@@ -18,10 +18,8 @@ const config = {
   ],
   
   themeConfig: {
-    // ...other themeConfig
-    
     zoom: {
-      selector: '.markdown > img',
+      selector: '.markdown :not(em) > img',
       background: {
         light: 'rgb(255, 255, 255)',
         dark: 'rgb(50, 50, 50)'
